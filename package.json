@@ -2,7 +2,7 @@
   "name": "pcode-theme",
   "displayName": "pcode-theme",
   "description": "dracula fleet dan eva fleet",
-  "version": "0.0.1",
+  "version": "0.0.1003",
   "publisher": "PojokCode",
   "icon": "logo.png",
   "homepage": "https://github.com/pojokcodeid/pcode-theme",
@@ -14,7 +14,7 @@
     "url": "https://github.com/pojokcodeid/pcode-theme"
   },
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
