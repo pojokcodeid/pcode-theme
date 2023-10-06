@@ -1,0 +1,36 @@
+{
+  "name": "pcode-theme",
+  "displayName": "pcode-theme",
+  "description": "dracula fleet dan eva fleet",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Fleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-fleet.json"
+      },
+      {
+        "label": "Dracula Soft Fleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-soft-fleet.json"
+      },
+      {
+        "label": "Eva Dark Fleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eva-Dark-fleet.json"
+      },
+      {
+        "label": "Eva Dark Italic Fleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eva-Dark-italic-fleet.json"
+      }
+    ]
+  }
+}
