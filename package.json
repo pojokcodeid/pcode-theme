@@ -2,7 +2,7 @@
   "name": "pcode-theme",
   "displayName": "pcode-theme",
   "description": "dracula fleet dan eva fleet",
-  "version": "0.0.1003",
+  "version": "0.0.1004",
   "publisher": "PojokCode",
   "icon": "logo.png",
   "homepage": "https://github.com/pojokcodeid/pcode-theme",
@@ -39,7 +39,7 @@
       {
         "label": "Eva Dark Italic Fleet",
         "uiTheme": "vs-dark",
-        "path": "./themes/Eva-Dark-italic-fleet.json"
+        "path": "./themes/Eva-Dark-Italic-fleet.json"
       }
     ]
   }
