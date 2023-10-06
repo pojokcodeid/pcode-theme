@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/pojokcodeid/pcode-theme"
   },
   "engines": {
     "vscode": "^1.83.0"

@@ -1,6 +1,6 @@
 # pcode-theme
 
-![CAPTURE!](img.png)
+![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/img.png)
 
 - Create VSIX file
 
