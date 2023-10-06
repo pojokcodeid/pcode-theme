@@ -3,6 +3,16 @@
   "displayName": "pcode-theme",
   "description": "dracula fleet dan eva fleet",
   "version": "0.0.1",
+  "publisher": "Pojok Code",
+  "icon": "logo.png",
+  "homepage": "https://github.com/pojokcodeid/pcode-theme",
+  "bugs": {
+    "url": "https://github.com/pojokcodeid/pcode-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
