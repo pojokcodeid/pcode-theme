@@ -1,6 +1,20 @@
 # pcode-theme
 
-![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/img.png)
+## Dracula
+
+![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/dracula-fleet.png)
+
+## Eva Theme
+
+![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/eva-dark-fleet.png)
+
+## JetBrains Fleet
+
+![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/jetbrains-fleet.png)
+
+## Palenight
+
+![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-theme/main/palenight-fleet.png)
 
 - Create VSIX file
 
