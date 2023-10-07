@@ -65,14 +65,21 @@
     "editorGroup.border": "#2E3245",
     "editorGroup.dropBackground": "#7e57c273",
     "editorGroupHeader.noTabsBackground": "#32374C",
-    "editorGroupHeader.tabsBackground": "#31364a",
+
+    "editorGroupHeader.tabsBackground": "#292D3E",
+
     "editorGroupHeader.tabsBorder": "#262A39",
     "tab.activeBackground": "#292D3E",
     "tab.activeForeground": "#eeffff",
-    "tab.border": "#272B3B",
+
+    "tab.border": "#31364A",
+    "tab.activeBorderTop": "#7e57c2",
+
     "tab.activeBorder": "#262A39",
     "tab.unfocusedActiveBorder": "#262A39",
-    "tab.inactiveBackground": "#31364A",
+
+    "tab.inactiveBackground": "#292D3E",
+
     "tab.inactiveForeground": "#929ac9",
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": null,
@@ -99,7 +106,7 @@
     "editorIndentGuide.background": "#4E557980",
     "editorRuler.foreground": "#4E557980",
 
-    "editorCodeLens.foreground": "#7C6213",
+    "editorCodeLens.foreground": "#777783",
 
     "editorBracketMatch.background": null,
     "editorBracketMatch.border": null,
