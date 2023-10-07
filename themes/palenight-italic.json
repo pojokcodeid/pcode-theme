@@ -96,7 +96,9 @@
     "editorWhitespace.foreground": null,
     "editorIndentGuide.background": "#4E557980",
     "editorRuler.foreground": "#4E557980",
-    "editorCodeLens.foreground": "#FFCA28",
+
+    "editorCodeLens.foreground": "#7C6213",
+
     "editorBracketMatch.background": null,
     "editorBracketMatch.border": null,
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
@@ -104,7 +106,9 @@
     "editorOverviewRuler.commonContentForeground": "#7e57c2",
     "editorError.foreground": "#EF5350",
     "editorError.border": null,
-    "editorWarning.foreground": "#FFCA28",
+
+    "editorWarning.foreground": "#7C6213",
+
     "editorWarning.border": null,
     "editorGutter.background": null,
     "editorGutter.modifiedBackground": "#e2b93d",
