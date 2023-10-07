@@ -55,7 +55,9 @@
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#292D3E",
     "sideBar.foreground": "#6C739A",
-    "sideBar.border": "#262626",
+
+    "sideBar.border": "#30364c",
+
     "sideBarTitle.foreground": "#eeffff",
     "sideBarSectionHeader.background": "#292D3E",
     "sideBarSectionHeader.foreground": "#eeffff",
@@ -149,7 +151,7 @@
     "merge.border": null,
     "panel.background": "#292D3E",
 
-    "panel.border": "#262626",
+    "panel.border": "#30364c",
 
     "panelTitle.activeBorder": "#7e57c2",
     "panelTitle.activeForeground": "#eeffff",
@@ -169,7 +171,9 @@
     "statusBarItem.prominentHoverBackground": "#202431",
     "titleBar.activeBackground": "#292d3e",
     "titleBar.activeForeground": "#eeefff",
-    "titleBar.border": "#30364c",
+
+    "titleBar.border": null,
+
     "titleBar.inactiveBackground": "#30364c",
     "titleBar.inactiveForeground": null,
     "notifications.background": "#292D3E",
