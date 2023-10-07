@@ -36,6 +36,7 @@ vsce publish
 ```
 
 Terimakasih Kepada : <br>
-<a href="https://github.com/dracula/visual-studio-code">Dracula Official</a><br>
+<a href="https://github.com/dracula/visual-studio-code">Dracula Official Theme</a><br>
 <a href="https://github.com/fisheva/Eva-Theme">Eva Theme</a><br>
-<a href="https://github.com/whizkydee/vscode-palenight-theme">Palenight</a><br>
+<a href="https://github.com/whizkydee/vscode-palenight-theme">Palenight Theme</a><br>
+<a href="https://github.com/Michaelzhouisnotwhite/Jetbrains-Fleet-Theme">Jetbrains Fleet Theme</a><br>
