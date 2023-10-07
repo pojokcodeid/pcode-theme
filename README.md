@@ -10,3 +10,13 @@ cd pcode-theme
 vsce package
 vsce publish
 ```
+
+## Untuk Pengguna Linux
+
+- Tambahkan pada file config.json
+
+```json
+{
+  "window.titleBarStyle": "custom"
+}
+```
