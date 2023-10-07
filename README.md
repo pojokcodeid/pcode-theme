@@ -20,3 +20,8 @@ vsce publish
   "window.titleBarStyle": "custom"
 }
 ```
+
+Terimakasih Kepada :
+<a href="https://github.com/dracula/visual-studio-code">Dracula Official</a><br>
+<a href="https://github.com/fisheva/Eva-Theme">Eva Theme</a><br>
+<a href="https://github.com/whizkydee/vscode-palenight-theme">Palenight</a><br>
