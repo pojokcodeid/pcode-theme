@@ -148,7 +148,9 @@
     "merge.incomingContentBackground": null,
     "merge.border": null,
     "panel.background": "#292D3E",
-    "panel.border": "#282B3C",
+
+    "panel.border": "#262626",
+
     "panelTitle.activeBorder": "#7e57c2",
     "panelTitle.activeForeground": "#eeffff",
     "panelTitle.inactiveForeground": "#bfc7d580",
