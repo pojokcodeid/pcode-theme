@@ -158,7 +158,9 @@
     "panelTitle.inactiveForeground": "#bfc7d580",
     "statusBar.background": "#282C3D",
     "statusBar.foreground": "#676E95",
-    "statusBar.border": "#262A39",
+
+    "statusBar.border": null,
+
     "statusBar.debuggingBackground": "#202431",
     "statusBar.debuggingForeground": null,
     "statusBar.debuggingBorder": "#1F2330",
