@@ -35,7 +35,7 @@ vsce publish
 }
 ```
 
-Terimakasih Kepada : <br>
+Terimakasih untuk : <br>
 <a href="https://github.com/dracula/visual-studio-code">Dracula Official Theme</a><br>
 <a href="https://github.com/fisheva/Eva-Theme">Eva Theme</a><br>
 <a href="https://github.com/whizkydee/vscode-palenight-theme">Palenight Theme</a><br>
