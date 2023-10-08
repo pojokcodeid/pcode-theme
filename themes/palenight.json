@@ -185,12 +185,15 @@
     "statusBarItem.hoverBackground": "#202431",
     "statusBarItem.prominentBackground": "#202431",
     "statusBarItem.prominentHoverBackground": "#202431",
-    "titleBar.activeBackground": "#292d3e",
+
+    "titleBar.activeBackground": "#292D3E",
+
     "titleBar.activeForeground": "#eeefff",
 
     "titleBar.border": null,
 
-    "titleBar.inactiveBackground": "#30364c",
+    "titleBar.inactiveBackground": "#292D3E",
+
     "titleBar.inactiveForeground": null,
     "notifications.background": "#292D3E",
     "notifications.foreground": "#ffffffcc",
