@@ -169,14 +169,18 @@
     "statusBar.background": "#282C3D",
     "statusBar.foreground": "#676E95",
 
-    "statusBar.border": null,
+    "statusBar.border": "#282C3D",
 
     "statusBar.debuggingBackground": "#202431",
     "statusBar.debuggingForeground": null,
-    "statusBar.debuggingBorder": "#1F2330",
+
+    "statusBar.debuggingBorder": "#282C3D",
+
     "statusBar.noFolderForeground": null,
     "statusBar.noFolderBackground": "#292D3E",
-    "statusBar.noFolderBorder": "#25293A",
+
+    "statusBar.noFolderBorder": "#282C3D",
+
     "statusBarItem.activeBackground": "#202431",
     "statusBarItem.hoverBackground": "#202431",
     "statusBarItem.prominentBackground": "#202431",
