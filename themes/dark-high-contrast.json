@@ -148,13 +148,15 @@
     "scrollbarSlider.background": "#bdc4cc33",
     "scrollbarSlider.hoverBackground": "#bdc4cc3d",
     "scrollbarSlider.activeBackground": "#bdc4cc47",
-    "editorOverviewRuler.border": "#010409",
+
+    "editorOverviewRuler.border": "#0a0c10",
+
     "minimapSlider.background": "#bdc4cc33",
     "minimapSlider.hoverBackground": "#bdc4cc3d",
     "minimapSlider.activeBackground": "#bdc4cc47",
     "panel.background": "#0a0c10",
 
-    "panel.border": "#1B1C20",
+    "panel.border": "#010409",
 
     "panelTitle.activeBorder": "#ff967d",
     "panelTitle.activeForeground": "#f0f3f6",
