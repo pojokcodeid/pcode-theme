@@ -55,6 +55,11 @@
         "label": "Palenight Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-italic.json"
+      },
+      {
+        "label": "Github Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-high-contrast.json"
       }
     ]
   }
