@@ -2,7 +2,7 @@
   "name": "pcode-theme",
   "displayName": "PCode Theme",
   "description": "Dracula Fleet, Eva Fleet dan JetBrains Fleet",
-  "version": "0.0.1012",
+  "version": "0.0.1014",
   "publisher": "PojokCode",
   "icon": "logo.png",
   "homepage": "https://github.com/pojokcodeid/pcode-theme",
@@ -60,7 +60,23 @@
         "label": "Github Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-high-contrast.json"
+      },
+      {
+        "label": "Atom One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "9717653e-51bb-419f-a179-54c9798926a4",
+    "publisherId": "3f35fc89-152f-4715-9706-6ebf306dd0f7",
+    "publisherDisplayName": "Pojok Code",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "installedTimestamp": 1696775654657,
+    "preRelease": false
   }
 }

@@ -158,7 +158,7 @@
     "editorBracketHighlight.foreground6": "#FFB86C",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF5555",
     // "editorOverviewRuler.border": "#191A21",
-    "editorOverviewRuler.border": "#282A36",
+    "editorOverviewRuler.border": "#282A3600",
     "editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
     "editorOverviewRuler.wordHighlightForeground": "#8BE9FD",
     "editorOverviewRuler.wordHighlightStrongForeground": "#50FA7B",

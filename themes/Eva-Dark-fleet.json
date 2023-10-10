@@ -331,6 +331,7 @@
     "sideBar.background": "#282c34",
     "sideBar.dropBackground": "#598DEF4C",
     "sideBar.foreground": "#8E99B1",
+    "sideBar.border": "#21252B", // custom sidebar by akn
     "sideBarSectionHeader.background": "#282c34",
     "sideBarSectionHeader.foreground": "#9DA5B3",
     "sideBarTitle.foreground": "#9DA5B3",

@@ -114,7 +114,7 @@
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
     "editorOverviewRuler.commonContentForeground": "#7e57c2",
 
-    "editorOverviewRuler.border": "#292D3E",
+    "editorOverviewRuler.border": "#292D3E00",
 
     "editorError.foreground": "#EF5350",
     "editorError.border": null,

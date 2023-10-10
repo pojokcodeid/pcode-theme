@@ -149,14 +149,14 @@
     "scrollbarSlider.hoverBackground": "#bdc4cc3d",
     "scrollbarSlider.activeBackground": "#bdc4cc47",
 
-    "editorOverviewRuler.border": "#0a0c10",
+    "editorOverviewRuler.border": "#0a0c1000",
 
     "minimapSlider.background": "#bdc4cc33",
     "minimapSlider.hoverBackground": "#bdc4cc3d",
     "minimapSlider.activeBackground": "#bdc4cc47",
     "panel.background": "#0a0c10",
 
-    "panel.border": "#010409",
+    "panel.border": "#1B1C20",
 
     "panelTitle.activeBorder": "#ff967d",
     "panelTitle.activeForeground": "#f0f3f6",

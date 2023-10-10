@@ -158,7 +158,7 @@
     "editorBracketHighlight.foreground6": "#FFB86C",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ee6666",
     // "editorOverviewRuler.border": "#191A21",
-    "editorOverviewRuler.border": "#282A36",
+    "editorOverviewRuler.border": "#282A3600",
     "editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
     "editorOverviewRuler.wordHighlightForeground": "#97e1f1",
     "editorOverviewRuler.wordHighlightStrongForeground": "#62e884",
@@ -206,6 +206,7 @@
     "editorOverviewRuler.incomingContentForeground": "#bf9eee",
     "panel.background": "#282A36",
     // "panel.border": "#bf9eee",     // hilangkan border terminal
+    "panel.border": "#262626",
     "panelTitle.activeBorder": "#f286c4",
     "panelTitle.activeForeground": "#f6f6f4",
     "panelTitle.inactiveForeground": "#7b7f8b",
