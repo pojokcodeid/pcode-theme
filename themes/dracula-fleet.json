@@ -114,7 +114,7 @@
     "sideBar.border": "#262626",
     "sideBarTitle.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#282A36",
-    "sideBarSectionHeader.border": "#191A21",
+    "sideBarSectionHeader.border": "#191A2100",
     "editorGroup.border": "#BD93F9",
     "editorGroup.dropBackground": "#44475A70",
     // "editorGroupHeader.tabsBackground": "#191A21",

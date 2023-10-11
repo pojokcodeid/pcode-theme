@@ -393,7 +393,7 @@
     "tab.activeForeground": "#d7dae0",
     "tab.activeModifiedBorder": "#A78CFA",
     "tab.border": "#181A1F",
-    "tab.hoverBackground": "#598DEF66",
+    "tab.hoverBackground": "#598DEF10",
     "tab.hoverBorder": "#598DEF00",
     "tab.hoverForeground": "#d7dae0",
     // "tab.inactiveBackground": "#21252B",
