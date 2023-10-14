@@ -2,7 +2,7 @@
   "name": "pcode-theme",
   "displayName": "PCode Theme",
   "description": "Dracula Fleet, Eva Fleet dan JetBrains Fleet",
-  "version": "0.0.1015",
+  "version": "0.0.1016",
   "publisher": "PojokCode",
   "icon": "logo.png",
   "homepage": "https://github.com/pojokcodeid/pcode-theme",
@@ -14,7 +14,7 @@
     "url": "https://github.com/pojokcodeid/pcode-theme"
   },
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
