@@ -290,7 +290,8 @@
     "panelTitle.activeForeground": "#c7cbe4",  // custom by akn
     // "panelTitle.inactiveForeground": "#42465d",
     "panelTitle.inactiveForeground": "#6d7081", // custom by akn
-    "panelTitle.activeBorder": "#1a1b26",
+    // "panelTitle.activeBorder": "#1a1b26",
+    "panelTitle.activeBorder": "#3d59a1",
     "panelInput.border": "#1a1b26",
 
     "statusBar.foreground": "#adb1cc",

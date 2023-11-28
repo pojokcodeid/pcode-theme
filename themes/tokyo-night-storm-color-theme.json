@@ -107,14 +107,16 @@
 
         "list.dropBackground": "#292e42",
         "list.deemphasizedForeground": "#7982a9",
-        "list.activeSelectionBackground": "#2c324a",
+        // "list.activeSelectionBackground": "#2c324a",
+        "list.activeSelectionBackground": "#2c324a40",
 
         "list.activeSelectionForeground": "#a9b1d6",
         "list.inactiveSelectionBackground": "#292e42",
         "list.inactiveSelectionForeground": "#a9b1d6",
         "list.focusBackground": "#292e42",
         "list.focusForeground": "#a9b1d6",
-        "list.hoverBackground": "#1b1e2e",
+        // "list.hoverBackground": "#1b1e2e",
+        "list.hoverBackground": "#1b1e2e40", //custom by akn
         "list.hoverForeground": "#a9b1d6",
 
         "list.highlightForeground": "#668ac4",
@@ -721,13 +723,13 @@
                 "foreground": "#de5971"
             }
         },
-        {
-            "name": "Tag Punctuation",
-            "scope": "punctuation.definition.tag",
-            "settings": {
-                "foreground": "#ba3c97"
-            }
-        },
+        // {
+        //     "name": "Tag Punctuation",
+        //     "scope": "punctuation.definition.tag",
+        //     "settings": {
+        //         "foreground": "#ba3c97"
+        //     }
+        // },
         {
             "name": "Globals, PHP Constants, etc",
             "scope": [
