@@ -88,7 +88,7 @@
     //"activityBar.activeBorder": "#3b3e52",
     //"activityBar.activeBackground": "#1a1b26",
     // "activityBar.inactiveForeground": "#3b3e52",
-    "activityBar.inactiveForeground": "#7b7e9b", // custom by akn
+    "activityBar.inactiveForeground": "#65677a", // custom by akn
     // "activityBar.border": "#1a1b26",
     "activityBar.border": "#1a1b26", // custom by akn
     "activityBarBadge.background": "#3d59a1",
@@ -96,7 +96,7 @@
 
     "tree.indentGuidesStroke": "#2b2b3b",
     // "sideBar.foreground": "#adb1cc",
-    "sideBar.foreground": "#adb1cc", // custom by akn
+    "sideBar.foreground": "#c7cbe4", // custom by akn
     // "sideBar.background": "#1a1b26",
     "sideBar.background": "#1a1b26", // custom by akn
     // "sideBar.border": "#1a1b26",
@@ -262,7 +262,8 @@
 
     "breadcrumb.background": "#1a1b26",
     "breadcrumbPicker.background": "#1a1b26",
-    "breadcrumb.foreground": "#515670",
+    // "breadcrumb.foreground": "#515670",
+    "breadcrumb.foreground": "#70748a", // custom by akn
     "breadcrumb.focusForeground": "#a9b1d6",
     "breadcrumb.activeSelectionForeground": "#a9b1d6",
 
@@ -271,7 +272,8 @@
     "tab.activeForeground": "#a9b1d6",
     "tab.hoverForeground": "#a9b1d6",
     "tab.activeBorder": "#3d59a1",
-    "tab.inactiveForeground": "#adb1cc",
+    // "tab.inactiveForeground": "#adb1cc",
+    "tab.inactiveForeground": "#adb1cc", // custom by akn
     "tab.border": "#1a1b26",
     "tab.unfocusedActiveForeground": "#a9b1d6",
     "tab.unfocusedInactiveForeground": "#adb1cc",
@@ -284,8 +286,10 @@
     "panel.background": "#1a1b26",
     // "panel.border": "#1a1b26",
     "panel.border": "#111116", // custom by akn
-    "panelTitle.activeForeground": "#adb1cc",
-    "panelTitle.inactiveForeground": "#42465d",
+    // "panelTitle.activeForeground": "#adb1cc",
+    "panelTitle.activeForeground": "#c7cbe4",  // custom by akn
+    // "panelTitle.inactiveForeground": "#42465d",
+    "panelTitle.inactiveForeground": "#6d7081", // custom by akn
     "panelTitle.activeBorder": "#1a1b26",
     "panelInput.border": "#1a1b26",
 
@@ -366,7 +370,7 @@
 
     "gitDecoration.modifiedResourceForeground": "#6183bb",
     // "gitDecoration.ignoredResourceForeground": "#515670",
-    "gitDecoration.ignoredResourceForeground": "#777a8a", // custom by akn
+    "gitDecoration.ignoredResourceForeground": "#a0a2ad", // custom by akn
     "gitDecoration.deletedResourceForeground": "#914c54",
     "gitDecoration.renamedResourceForeground": "#449dab",
     "gitDecoration.addedResourceForeground": "#449dab",
