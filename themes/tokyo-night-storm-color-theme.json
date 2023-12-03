@@ -100,9 +100,9 @@
         "sideBar.border": "#1b1e2e",
         "sideBarTitle.foreground": "#7982a9",
         // "sideBarSectionHeader.background": "#1f2335",
-        "sideBarSectionHeader.background": "#1b1e2e", //custom by akn
+        "sideBarSectionHeader.background": "#1b1e2e00", //custom by akn
         "sideBarSectionHeader.foreground": "#a9b1d6",
-        "sideBarSectionHeader.border": "#1b1e2e",
+        "sideBarSectionHeader.border": "#1b1e2e00",
         "sideBar.dropBackground": "#292e42",
 
         "list.dropBackground": "#292e42",
