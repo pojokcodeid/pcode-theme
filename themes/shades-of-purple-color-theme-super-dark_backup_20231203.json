@@ -33,14 +33,11 @@
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
     "sideBar.background": "#191830", // custom by akn
     "sideBar.border": "#0e0e1c",
-    // "sideBar.foreground": "#A599E9",
-    "sideBar.foreground": "#ccc5f6", // custom by akn
+    "sideBar.foreground": "#A599E9",
     // "sideBarSectionHeader.background": "#15152b",
     "sideBarSectionHeader.background": "#191830", // custom by akn
-    // "sideBarSectionHeader.foreground": "#A599E9",
-    "sideBarSectionHeader.foreground": "#ccc5f6", // custom by akn
-    // "sideBarTitle.foreground": "#A599E9",
-    "sideBarTitle.foreground": "#ccc5f6", // custom by akn
+    "sideBarSectionHeader.foreground": "#A599E9",
+    "sideBarTitle.foreground": "#A599E9",
     "sideBarSectionHeader.border": "#15152b00", // custom by akn
 
     // Badge.
@@ -331,8 +328,7 @@
     "gitDecoration.modifiedResourceForeground": "#FAD000", // Color for modified git resources.
     "gitDecoration.deletedResourceForeground": "#EC3A37F5", // Color for deleted git resources.
     "gitDecoration.untrackedResourceForeground": "#3AD900", // Color for untracked git resources.
-    // "gitDecoration.ignoredResourceForeground": "#A599E981", // Color for ignored git resources.
-    "gitDecoration.ignoredResourceForeground": "#aca2e381", // Color for ignored git resources.
+    "gitDecoration.ignoredResourceForeground": "#A599E981", // Color for ignored git resources.
     "gitDecoration.conflictingResourceForeground": "#FF7200", // Color for conflicting git resources.
 
     // Text Colors — Colors inside a text document, such as the welcome page.

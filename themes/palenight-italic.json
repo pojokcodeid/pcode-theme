@@ -54,7 +54,7 @@
     "activityBarBadge.background": "#7e57c2",
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#292D3E",
-    "sideBar.foreground": "#6C739A",
+    "sideBar.foreground": "#989DB8",
 
     "sideBar.border": "#30364c",
 
@@ -226,7 +226,7 @@
     "gitDecoration.modifiedResourceForeground": "#e2c08de6",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#a9c77dff",
-    "gitDecoration.ignoredResourceForeground": "#69709890",
+    "gitDecoration.ignoredResourceForeground": "#989DB890",
     "gitDecoration.conflictingResourceForeground": "#FFEB95CC",
     "editorActiveLineNumber.foreground": "#eeffff",
     "breadcrumb.foreground": "#6c739a",
