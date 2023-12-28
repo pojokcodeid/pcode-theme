@@ -202,7 +202,8 @@
     // Input Control.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_input-control
     "input.background": "#191830",
-    "input.border": "#15152b",
+    // "input.border": "#15152b",
+    "input.border": "#46466f", // custom by akn
     "input.foreground": "#FAD000",
     "input.placeholderForeground": "#A599E9",
     "inputOption.activeBorder": "#15152b",
@@ -217,14 +218,18 @@
     // Lists and Trees.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
     "list.dropBackground": "#191830",
-    "list.activeSelectionBackground": "#191830",
+    // "list.activeSelectionBackground": "#191830",
+    "list.activeSelectionBackground": "#2a284d", // custom by akn
     "list.activeSelectionForeground": "#FFFFFF",
-    "list.focusBackground": "#191830",
+    // "list.focusBackground": "#191830",
+    "list.focusBackground": "#2a284d", // custom by akn
     "list.focusForeground": "#FFFFFF",
     "list.highlightForeground": "#FAD000",
-    "list.hoverBackground": "#191830",
+    // "list.hoverBackground": "#191830",
+    "list.hoverBackground": "#2a284d", // custom by akn
     "list.hoverForeground": "#CEC5FF",
-    "list.inactiveSelectionBackground": "#191830",
+    // "list.inactiveSelectionBackground": "#191830",
+    "list.inactiveSelectionBackground": "#262547", // custom by akn
     "list.inactiveSelectionForeground": "#AAA",
 
     // Merge Conflicts.
