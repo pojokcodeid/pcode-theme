@@ -211,7 +211,7 @@
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
     "list.dropBackground": "#2D2B55",
     // "list.activeSelectionBackground": "#2D2B55",
-    "list.activeSelectionBackground": "#3e3a6f", // custom by akn
+    "list.activeSelectionBackground": "#3e3a6f80", // custom by akn
     "list.activeSelectionForeground": "#FFFFFF",
     // "list.focusBackground": "#2D2B55",
     "list.focusBackground": "#3e3a6f", // custom by akn
