@@ -933,7 +933,7 @@
     // TABS
     // "tab.border": "#1d202100",
     "tab.border": "#3c383670", // custom by akn
-    "tab.activeBorder": "#689d6a",
+    "tab.activeBorderTop": "#689d6a",
     // "tab.activeBackground": "#32302f",
     "tab.activeBackground": "#32302f90", // custom by akn
     "tab.activeForeground": "#ebdbb2",

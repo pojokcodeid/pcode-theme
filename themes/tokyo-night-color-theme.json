@@ -275,7 +275,7 @@
     "tab.inactiveBackground": "#1a1b26",
     "tab.activeForeground": "#a9b1d6",
     "tab.hoverForeground": "#a9b1d6",
-    "tab.activeBorder": "#3d59a1",
+    "tab.activeBorderTop": "#3d59a1",
     // "tab.inactiveForeground": "#adb1cc",
     "tab.inactiveForeground": "#adb1cc", // custom by akn
     "tab.border": "#1a1b26",

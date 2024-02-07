@@ -151,7 +151,7 @@
     "tab.activeForeground": "#FFFFFF",
     // "tab.border": "#15152b",
     "tab.border": "#090912", // custom by akn
-    "tab.activeBorder": "#FAD000",
+    "tab.activeBorderTop": "#FAD000",
     "tab.inactiveBackground": "#191830",
     "tab.inactiveForeground": "#A599E9",
     "tab.unfocusedActiveForeground": "#A599E9",

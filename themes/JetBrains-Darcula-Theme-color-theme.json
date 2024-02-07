@@ -85,7 +85,7 @@
     "statusBar.noFolderForeground": "#bbbbbb",
     // "tab.activeBackground": "#515658",
     "tab.activeBackground": "#51565830", // custom by akn
-    "tab.activeBorder": "#4787C9",
+    "tab.activeBorderTop": "#4787C9",
     // "tab.border": "#323232",
     "tab.border": "#32323200", // custom by akn
     "tab.hoverBackground": "#27292a",
