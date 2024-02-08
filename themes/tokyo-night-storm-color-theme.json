@@ -110,9 +110,11 @@
     // "list.activeSelectionBackground": "#2c324a",
     "list.activeSelectionBackground": "#2c324a40",
 
-    "list.activeSelectionForeground": "#a9b1d6",
+    // "list.activeSelectionForeground": "#a9b1d6",
+    "list.activeSelectionForeground": "#dddfe6",
     "list.inactiveSelectionBackground": "#292e42",
-    "list.inactiveSelectionForeground": "#a9b1d6",
+    // "list.inactiveSelectionForeground": "#a9b1d6",
+    "list.inactiveSelectionForeground": "#dddfe6",
     "list.focusBackground": "#292e42",
     "list.focusForeground": "#a9b1d6",
     // "list.hoverBackground": "#1b1e2e",
@@ -277,7 +279,8 @@
     "tab.activeBackground": "#24283b", //custom by akn
     // "tab.inactiveBackground": "#1f2335",
     "tab.inactiveBackground": "#24283b", //custom by akn
-    "tab.activeForeground": "#a9b1d6",
+    // "tab.activeForeground": "#a9b1d6",
+    "tab.activeForeground": "#ebedf5",
     "tab.hoverForeground": "#a9b1d6",
     "tab.activeBorderTop": "#3d59a1",
     "tab.inactiveForeground": "#7982a9",

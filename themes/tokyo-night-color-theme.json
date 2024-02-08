@@ -112,10 +112,12 @@
     "list.deemphasizedForeground": "#adb1cc",
     "list.activeSelectionBackground": "#202330",
 
-    "list.activeSelectionForeground": "#a9b1d6",
+    // "list.activeSelectionForeground": "#a9b1d6",
+    "list.activeSelectionForeground": "#e9eaee",
     // "list.inactiveSelectionBackground": "#1c1d29",
     "list.inactiveSelectionBackground": "#23243390", // custom by akn
-    "list.inactiveSelectionForeground": "#a9b1d6",
+    // "list.inactiveSelectionForeground": "#a9b1d6",
+    "list.inactiveSelectionForeground": "#e9eaee",
     // "list.focusBackground": "#1c1d29",
     "list.focusBackground": "#36384e90",
     "list.focusForeground": "#a9b1d6",
@@ -273,12 +275,14 @@
 
     "tab.activeBackground": "#1a1b26",
     "tab.inactiveBackground": "#1a1b26",
-    "tab.activeForeground": "#a9b1d6",
+    // "tab.activeForeground": "#a9b1d6",
+    "tab.activeForeground": "#f3f4f8",
     "tab.hoverForeground": "#a9b1d6",
     "tab.activeBorderTop": "#3d59a1",
     // "tab.inactiveForeground": "#adb1cc",
     "tab.inactiveForeground": "#adb1cc", // custom by akn
-    "tab.border": "#1a1b26",
+    // "tab.border": "#1a1b26",
+    "tab.border": "#111116", // custom by akn
     "tab.unfocusedActiveForeground": "#a9b1d6",
     "tab.unfocusedInactiveForeground": "#adb1cc",
     "tab.unfocusedHoverForeground": "#a9b1d6",
