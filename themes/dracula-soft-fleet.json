@@ -223,7 +223,7 @@
     "statusBarItem.prominentBackground": "#ee6666",
     "statusBarItem.prominentHoverBackground": "#FFB86C",
     "statusBarItem.remoteForeground": "#282A36",
-    "statusBarItem.remoteBackground": "#bf9eee",
+    "statusBarItem.remoteBackground": "#bf9eee00",
     // "titleBar.activeBackground": "#262626",
     "titleBar.activeBackground": "#282A36",
     "titleBar.activeForeground": "#f6f6f4",

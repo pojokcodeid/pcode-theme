@@ -1951,7 +1951,7 @@
     "statusBar.noFolderBackground": "#181818",
     "statusBar.noFolderForeground": "#6b6b6b",
     "statusBar.noFolderBorder": "#d6d6dd00",
-    "statusBarItem.remoteBackground": "#5b51ec",
+    "statusBarItem.remoteBackground": "#5b51ec00",
     "statusBarItem.remoteForeground": "#d6d6dd",
     "menubar.selectionForeground": "#d6d6dd",
     "menubar.selectionBackground": "#d6d6dd20",

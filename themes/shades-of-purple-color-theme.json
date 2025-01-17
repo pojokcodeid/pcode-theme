@@ -297,6 +297,7 @@
     "statusBarItem.hoverBackground": "#4D21FC",
     "statusBarItem.prominentBackground": "#2D2B55",
     "statusBarItem.prominentHoverBackground": "#2D2B55",
+    "statusBarItem.remoteBackground": "#A599E900",
 
     // Integrated Terminal Colors.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors

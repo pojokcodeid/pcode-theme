@@ -84,7 +84,7 @@
     "statusBar.debuggingBackground": "#ff6a69",
     "statusBarItem.prominentBackground": "#9ea7b366",
     "statusBarItem.remoteForeground": "#f0f3f6",
-    "statusBarItem.remoteBackground": "#525964",
+    "statusBarItem.remoteBackground": "#52596400",
     "statusBarItem.hoverBackground": "#f0f3f614",
     "statusBarItem.activeBackground": "#f0f3f61f",
     "statusBarItem.focusBorder": "#010409",
