@@ -19,12 +19,11 @@
 - Create VSIX file
 
 ```
-npm install -g @vscode/vsce
+npm i -g vsce
 cd pcode-theme
 vsce package
 vsce publish
 ```
-panduan kunnjungi https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
 ## Untuk Pengguna Linux
 
